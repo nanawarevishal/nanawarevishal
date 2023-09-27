@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nanawarevishal" alt="nanawarevishal" /></a> </p>
 
-- 🔭 I’m currently working on **Movies Recommended System**
+- 🔭 I’m currently working on **Flutter Development**
 
 - 📫 How to reach me **nanawarevishal18@gmail.com**
 
